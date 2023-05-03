@@ -1,6 +1,3 @@
-# We Are IBM Client Engineering
-IBM Client Engineering is a **no-cost** investment by IBM in our customers. We are a team of experts who help our clients solve their most complex problems using IBM Technology with our expertise, experience and commitment. 
-
 # We Work In The Open
 We believe in working in the open to provide our customers with unparalleled service and dedication to their success. Embracing transparency, collaboration, and adaptability, our open work model allows us to build trust and foster strong relationships with our valued customers. By sharing our processes, strategies, and goals, we invite our customers to truly understand the value we bring to the table and the unwavering commitment we have to helping our customers achieve their business objectives. 
 
